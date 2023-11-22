@@ -1,5 +1,9 @@
 # shopping_list
 
+[![Build status](https://build.appcenter.ms/v0.1/apps/24b16311-94d4-4cb1-a834-5255b25e1821/branches/main/badge)](https://appcenter.ms)
+
+https://install.appcenter.ms/orgs/shopping-list-dwiky/apps/shopping-list/distribution_groups/public
+
 A new Flutter project.
 
 ## Getting Started
